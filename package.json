@@ -1,0 +1,14 @@
+{
+  "name": "week3test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mikkel",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
